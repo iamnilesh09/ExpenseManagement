@@ -1,0 +1,29 @@
+{
+    "name": "expense",
+    "description": "AngularFrameworkBackend",
+    "main": "gulpfile.js",
+    "authors": [
+    ],
+    "license": "ISC",
+    "homepage": "",
+    "moduleType": [],
+    "ignore": [
+      "**/.*",
+      "node_modules",
+      "bower_components",
+      "test",
+      "tests"
+    ],
+    "dependencies": {
+      "angular-ui": "~0.4.0",            
+      "angular-sanitize": "~1.4.3",
+      "lodash": "~4.0.0",
+      "ui-router": "~0.2.15",
+      "angular": "^1.5.0",
+      "angular-toastr": "^2.0.0"
+    },
+    "devDependencies": {
+      "angular": "1.6.9"      
+    }
+  }
+  
